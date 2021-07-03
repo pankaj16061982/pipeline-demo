@@ -1,4 +1,4 @@
-node('windows-node') {
+node('JenkinWorkerNode') {
    def mvnHome
    stage('Preparation') { 
       
